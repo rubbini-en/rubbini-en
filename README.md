@@ -96,4 +96,4 @@ Microservices infrastructure (Perl-Myriad, Docker, PostgreSQL, Node.js) for a pl
 
 ---
 
-*Trilingual: EN / ES / PT · Perl-Myriad expertise (rare globally) · Remote-first*
+*Trilingual: EN / ES / PT · Perl expertise (rare globally) · Remote-first*
