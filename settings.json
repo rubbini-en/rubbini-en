@@ -1,13 +1,12 @@
 {
-  "username": "rubbini-en",
-  "backgroundColor": "#0d1117",
-  "foregroundColor": "#ffffff",
+  "backgroundColor": "#000000",
+  "foregroundColor": "#cc6666",
   "gitblock": {
-    "backgroundColor": "#0d1117",
-    "strongColor": "#6e40c9",
-    "normalColor": "#1f6feb",
-    "weakColor": "#21262d",
-    "frameColor": "#30363d",
-    "textColor": "#8b949e"
+    "backgroundColor": "#000000",
+    "strongColor": "#cc0000",
+    "normalColor": "#8b0000",
+    "weakColor": "#3d0000",
+    "frameColor": "#1a0000",
+    "textColor": "#cc6666"
   }
 }
