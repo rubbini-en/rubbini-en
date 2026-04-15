@@ -19,22 +19,22 @@ jobs:
         run: |
           cat > settings.json << 'EOF'
           {
-            "backgroundColor": "#1a0000",
-            "foregroundColor": "#ff9999",
+            "backgroundColor": "#0f0f0f",
+            "foregroundColor": "#ff7777",
             "gitblock": {
-              "backgroundColor": "#1a0000",
-              "strongColor": "#e60000",
-              "normalColor": "#8b0000",
-              "weakColor": "#4d0000",
-              "frameColor": "#330000",
-              "textColor": "#ff9999"
+              "backgroundColor": "#0f0f0f",
+              "strongColor": "#ff2222",
+              "normalColor": "#991f1f",
+              "weakColor": "#5a1515",
+              "frameColor": "#2a0a0a",
+              "textColor": "#ff7777"
             }
           }
           EOF
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings.json
 
