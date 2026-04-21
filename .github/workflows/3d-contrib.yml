@@ -5,6 +5,10 @@ on:
     - cron: "0 18 * * *"   # daily at 18:00 UTC
   workflow_dispatch:        # manual trigger
 
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,23 +18,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Write settings file
-        run: |
-          cat > settings.json << 'EOF'
-          {
-            "backgroundColor": "#0f0f0f",
-            "foregroundColor": "#ff7777",
-            "gitblock": {
-              "backgroundColor": "#0f0f0f",
-              "strongColor": "#ff2222",
-              "normalColor": "#991f1f",
-              "weakColor": "#5a1515",
-              "frameColor": "#2a0a0a",
-              "textColor": "#ff7777"
-            }
-          }
-          EOF
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:

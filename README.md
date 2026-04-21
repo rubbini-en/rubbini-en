@@ -86,12 +86,11 @@ Microservices infrastructure (Perl-Myriad, Docker, PostgreSQL, Node.js) for a pl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubbini-en&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubbini-en&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-customize.svg" width="100%" />
+  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
 ---

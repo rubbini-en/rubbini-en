@@ -1,12 +1,12 @@
 {
-  "backgroundColor": "#0f0f0f",
-  "foregroundColor": "#ff7777",
+  "backgroundColor": "#00000f",
+  "foregroundColor": "#eeeeff",
   "gitblock": {
-    "backgroundColor": "#0f0f0f",
-    "strongColor": "#ff2222",
-    "normalColor": "#991f1f",
-    "weakColor": "#5a1515",
-    "frameColor": "#2a0a0a",
-    "textColor": "#ff7777"
+    "backgroundColor": "#00000f",
+    "strongColor": "#47a042",
+    "normalColor": "#2f7a34",
+    "weakColor": "#1b4f24",
+    "frameColor": "#aaaaaa",
+    "textColor": "#eeeeff"
   }
 }
