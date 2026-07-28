@@ -1,7 +1,6 @@
-# I build backend systems that don't break under pressure.
+# Eduardo Rubbini
 
-**Backend Engineer** · 4+ years in production · Asunción, Paraguay 🇵🇾  
-🟢 **Open to remote** — Backend / Platform / Full-Stack roles
+**Backend Engineer** · 4+ years building distributed, production-grade systems · Asunción, Paraguay 🇵🇾
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-rubbini)
 [![Email](https://img.shields.io/badge/Email-rubbinien%40hotmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rubbinien@hotmail.com)
@@ -9,59 +8,72 @@
 
 ---
 
-## By the numbers
+## About
 
-| Metric | Scale |
-|--------|-------|
-| Active traders on a single platform | **3M+** |
-| Transactions processed daily | **Millions** |
-| Uptime maintained | **99.9%+** |
-| Third-party APIs integrated | **10+** |
-| Global offices collaborated with | **20** |
-| Years in production backend systems | **4+** |
+I design and maintain backend systems that hold up under real load. Over 4+ years in production, I've built and operated microservices infrastructure for a fintech platform serving **3M+ active traders**, processing **millions of transactions daily** while sustaining **99.9%+ uptime**.
+
+My focus is distributed architecture: services that fail independently instead of together, data paths that stay consistent under concurrency, and systems built to be understood and operated by someone other than the person who wrote them.
 
 ---
 
-## Stack
+## Tech Stack & Tools
 
-**Backend**  
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
+**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+Includes hands-on work with **Perl-Myriad**, the async microservices framework used to build and scale real-time trading infrastructure.
 
-**Databases**  
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-**DevOps & Infrastructure**  
+**Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90D9?style=flat)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat)
 
-**Monitoring**  
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+**Frontend** *(secondary)*
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## Engineering Philosophy
+
+- **Design for the load that actually shows up.** Architecture decisions get validated against real traffic patterns and failure modes, not idealized ones.
+- **Reliability is a feature, not an afterthought.** Uptime and data consistency are treated as first-class requirements, especially in systems where mistakes cost money.
+- **Automate what's worth automating.** CI/CD, testing, and repetitive operational tasks get automated; automation for its own sake doesn't.
+- **Keep architecture legible.** A service that only its author can operate is a liability. I optimize for systems the next engineer can read, extend, and debug at 3am.
+
+---
+
+## 🚧 Master Architecture Showcase — *Coming Soon*
+
+**Status: In progress.** I'm currently working toward an AWS certification, and once that's complete I plan to build and document a reference project here: a fully worked distributed system demonstrating microservices design, deployment, and operational practices end-to-end.
+
+This section is a placeholder — nothing to see yet, but check back.
 
 ---
 
 ## Experience
 
-**Software Engineer @ [FortyAU](https://fortyau.com)** *(Aug 2024 – Jun 2025)*  
-Full-stack delivery across PHP, C#, Angular, React & Kotlin for 5+ client projects in healthcare, entertainment, and business automation. Owned DevOps, QA, and DBA simultaneously across 3 time zones with zero critical incidents.
+**Freelance Backend Engineer** *(Jun 2025 – Present)*
+Independent contract work across backend and full-stack projects.
 
-**Backend Developer @ [Deriv.com](https://deriv.com)** *(Sep 2021 – Aug 2024)*  
-Microservices infrastructure (Perl-Myriad, Docker, PostgreSQL, Node.js) for a platform with 3M+ active traders. Real-time processing of forex, crypto, stocks & commodities at global scale. Integrated 10+ third-party APIs. Mentored engineers on Perl-Myriad patterns.
+**Software Engineer @ [FortyAU](https://fortyau.com)** *(Aug 2024 – Jun 2025)*
+Full-stack delivery across PHP, C#, Angular, React & Kotlin for multiple client projects spanning healthcare, entertainment, and business automation. Owned DevOps, QA, and DBA responsibilities across 3 time zones with zero critical incidents.
+
+**Backend Developer @ [Deriv.com](https://deriv.com)** *(Sep 2021 – Aug 2024)*
+Built and maintained microservices infrastructure (Perl-Myriad, Docker, PostgreSQL, Node.js) for a fintech platform with 3M+ active traders, processing millions of transactions daily at 99.9%+ uptime. Real-time processing of forex, crypto, stocks & commodities at global scale. Integrated 10+ third-party APIs.
 
 ---
 
@@ -95,4 +107,4 @@ Microservices infrastructure (Perl-Myriad, Docker, PostgreSQL, Node.js) for a pl
 
 ---
 
-*Trilingual: EN / ES / PT · Perl expertise (rare globally) · Remote-first*
+*Trilingual: EN / ES / PT · Remote-first*
