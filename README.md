@@ -77,6 +77,12 @@ Built and maintained microservices infrastructure (Perl-Myriad, Docker, PostgreS
 
 ---
 
+## Projects
+
+**[reconcile-lite](https://github.com/rubbini-en/reconcile-lite)** — a payment reconciliation service: signed webhooks in, staged matching, exception reports out. Ties are marked `ambiguous` for a person instead of guessed. Node.js 22, TypeScript, Fastify 5, PostgreSQL 17. Personal project, runs against a fictional provider.
+
+---
+
 ## Certifications
 
 - 🤖 AI Dev Course — BIG School *(2025)*
