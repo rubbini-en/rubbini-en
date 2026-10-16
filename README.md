@@ -108,7 +108,7 @@ Built and maintained microservices infrastructure (Perl-Myriad, Docker, PostgreS
 </p>
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-customize.svg" width="100%" />
+  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
 </p>
 
 ---

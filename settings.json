@@ -1,12 +1,10 @@
 {
+  "type": "normal",
+  "fileName": "profile-night-green.svg",
   "backgroundColor": "#00000f",
   "foregroundColor": "#eeeeff",
-  "gitblock": {
-    "backgroundColor": "#00000f",
-    "strongColor": "#47a042",
-    "normalColor": "#2f7a34",
-    "weakColor": "#1b4f24",
-    "frameColor": "#aaaaaa",
-    "textColor": "#eeeeff"
-  }
+  "strongColor": "rgb(255,200,55)",
+  "weakColor": "#aaaaaa",
+  "radarColor": "#47a042",
+  "contribColors": ["#444444", "#1B7D28", "#24A736", "#2DD143", "#57DA69"]
 }
