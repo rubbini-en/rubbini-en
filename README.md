@@ -107,10 +107,6 @@ Built and maintained microservices infrastructure (Perl-Myriad, Docker, PostgreS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubbini-en&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" />
-</p>
-
 ---
 
 *Trilingual: EN / ES / PT · Remote-first*
